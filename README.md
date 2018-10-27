@@ -92,6 +92,7 @@ It is convenient to utilize third-party server service to operate all backend op
 
 
 ![image](https://github.com/Wallace2cm/XJTLU-Go/blob/master/Screenshot/Table.png)
+
 As a consequnse, we selected Bmob.
 ### Use accounts
     -(void)initAPP;
