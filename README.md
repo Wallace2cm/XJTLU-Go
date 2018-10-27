@@ -7,4 +7,6 @@ XJTLU GO is an IOS application software which contributes to simplify Xi’an Ji
 ## Functions
 ### Login & Sign in
 As regard to “Login” and “Sign in”, the users who are the first time to use the XJTLU Go are required to register with XJTLU student account. Only the name is needed when signing up because the suffix of the mailbox is added automatically by “student.xjtlu.edu.cn” when sending request to the database. Without access to the XJTLU school database, confirmation emails will be sent to users to ensure that the operations are conducted by themselves. “Invalid Input” will display if the account was registered before and issues of Internet connection. After the registration, a segue will be performed to the Login interface to ask user to type the account and password. When the data is verified by the database, the segue “loginSuccessful” will perform to lead users to the dashboard. Otherwise, the HUD will be displayed to inform the users with wrong information according to names or passwords.
+
+
 ![image](https://github.com/Wallace2cm/XJTLU-Go/blob/master/Screenshot/login.jpg)
