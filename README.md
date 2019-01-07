@@ -11,7 +11,7 @@ As regard to “Login” and “Sign in”, the users who are the first time to 
 
 ![image](https://github.com/Wallace2cm/XJTLU-Go/blob/master/Screenshot/login.jpg)
 
-###Ranking
+### Ranking
 In the interface of dashboard, there are three functions for users to choose. At the bottom of the page lies the tab bar, the two icons, represented by the images of house and portrait, will be highlighted by black when tapped and show the different pages which are “Dashboard” and “Account” respectively. When tapping the button of “Ranking”, the request for matching will be sent to database to look for competitor. A HUD - “Matching…” will be displayed during that period until the competitor is found. There is a cancel button under the label “Matching…” which allows the users to quit matching.
 
 
